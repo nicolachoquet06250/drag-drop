@@ -1,0 +1,21 @@
+div.draggable {
+	display: inline-block;
+	width: auto;
+}
+.draggable {
+	border: 1px solid gray;
+	box-shadow: gray;
+	padding: 4px;
+	cursor: pointer;
+	margin-bottom: 3px;
+}
+
+.dropper {
+	border: 1px solid rebeccapurple;
+	padding: 4px;
+	cursor: default;
+}
+
+.dib {
+	display: inline-block;
+}
